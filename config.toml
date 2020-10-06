@@ -81,7 +81,7 @@ disqusShortname = ""
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "Hi, my name is Forty"
+    title = "Hi, my name is Alexandre"
     subtitle = "A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP\nAND RELEASED UNDER THE CREATIVE COMMONS."
     buttonText = "Get Started"
 
@@ -191,28 +191,28 @@ disqusShortname = ""
 
     # Uses font awesome icons
     [[params.footer.social]]
-      icon = "fa-twitter"
-      url= "https://www.twitter.com"
-      label = "Twitter"
+      #icon = "fa-twitter"
+      #url= "https://www.twitter.com"
+      #label = "Twitter"
 
     [[params.footer.social]]
-      icon = "fa-facebook"
-      url= "https://www.facebook.com"
-      label = "Facebook"
+      #icon = "fa-facebook"
+      #url= "https://www.facebook.com"
+      #label = "Facebook"
 
     [[params.footer.social]]
-      icon = "fa-instagram"
-      url= "https://www.instagram.com"
-      label = "Instagram"
+      #icon = "fa-instagram"
+      #url= "https://www.instagram.com"
+      #label = "Instagram"
     
     [[params.footer.social]]
       icon = "fa-github"
-      url= "https://www.github.com"
+      url= "https://github.com/AlexMinot/my_website.git"
       label = "GitHub"
 
     [[params.footer.social]]
       icon = "fa-linkedin"
-      url= "https://www.linkedin.com"
+      url= "https://www.linkedin.com/in/alexandre-minot/"
       label = "LinkedIn"
 
     [[params.footer.quicklinks]]
