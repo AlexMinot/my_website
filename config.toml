@@ -101,7 +101,7 @@ disqusShortname = ""
     [[params.tiles.showcase]]
      title = "Homework 3"
       subtitle = "Let's have a look"
-      image = "finance2.jpg"
+      image = "finance2.png"
       url = "projects/project_returns2/homework3"
 
     #[[params.tiles.showcase]]
