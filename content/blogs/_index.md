@@ -1,9 +1,10 @@
 ---
-date: "2017-10-31T22:27:21-05:00"
+date: "2020-10-20T22:27:21-05:00"
 draft: false
-image: pic02.jpg
+image: pic07.jpg
 slug: blogs
-title: Lifestyle
+title: Favourite Recipes
 ---
 
-My blogs about technology and lifestyle.
+it is important to have a healthy and balanced diet!
+Here is a couple of recipes that may help you...
